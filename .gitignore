@@ -1,0 +1,4 @@
+libs/*
+!libs/You can put reference libraries here
+Mods/MapGenEvents/Assemblies/*
+

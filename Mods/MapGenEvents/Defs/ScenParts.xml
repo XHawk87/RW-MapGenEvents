@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ScenPartDef>
+    <defName>CreateIncidentOnMapGen</defName>
+    <label>create incident on map generation</label>
+    <scenPartClass>MapGenEvents.ScenPart_CreateIncidentOnMapGen</scenPartClass>
+    <category>Rule</category>
+    <selectionWeight>1.0</selectionWeight>
+    <summaryPriority>361</summaryPriority>
+  </ScenPartDef>
+  
+</Defs>
+
