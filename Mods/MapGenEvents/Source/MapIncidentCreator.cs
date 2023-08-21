@@ -15,6 +15,10 @@ namespace MapGenEvents
         private IncidentDef Incident => _prototype.Incident;
         private bool Repeat => _prototype.Repeat;
 
+        public MapIncidentCreator()
+        {
+        }
+
         public MapIncidentCreator(IMapIncidentCreatorPrototype prototype, Map map)
         {
             _prototype = prototype;
