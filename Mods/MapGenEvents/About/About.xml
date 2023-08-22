@@ -3,7 +3,7 @@
   <name>MapGen Events</name>
   <author>XHawk87</author>
   <packageId>XHawk87.MapGenEvents</packageId>
-  <modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.1.2</modVersion>
   <description>
     Adds a scenario part that triggers an incident after generating a new map
   </description>

@@ -23,7 +23,7 @@ namespace MapGenEvents
         {
             _prototype = prototype;
             _map = map;
-            _occurTick = Find.TickManager.TicksGame + prototype.IntervalTicks;
+            _occurTick = Find.TickManager.TicksGame + prototype.DelayTicks;
             _isFinished = false;
         }
 
